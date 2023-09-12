@@ -10,3 +10,5 @@ The files in this repository will be... <br>
     My change log .docx file.
 
 Like I wrote this is my first attempt at this so if there is anything I should adjust please feel free to comment.
+
+The analysis in HTML is to large to view so you will need to download the file to view.
