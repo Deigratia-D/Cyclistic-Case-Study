@@ -2,7 +2,7 @@
 
 This is my first upload to github and performing my first data analysis for a case study on Cyclistic.
 
-The files in this repository will be... <br>
+The files in this repository are... <br>
     The analysis in .html format. <br>
     The analysis in .pdf format. <br>
     The analysis in .docx format. <br>
